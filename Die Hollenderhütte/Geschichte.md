@@ -40,5 +40,15 @@ Die Spielenden haben eine Verbindung zu den Anderen Chars.
 2. Ein alter Freund: Ein alter Freund bittet die Ermittler um Hilfe, da er von Albträumen geplagt wird, die mit der Hütte in Verbindung stehen.
 
 ## Info
+**Hastur**: - Der "König in Gelb" ist ein Wesen, das mit Wahnsinn und Chaos in Verbindung gebracht wird. Seine Anwesenheit führt oft zu verheerenden Folgen für die Menschheit. - kann als alternative zum Teufel genommen werden.
 
-Hastur: - Der "König in Gelb" ist ein Wesen, das mit Wahnsinn und Chaos in Verbindung gebracht wird. Seine Anwesenheit führt oft zu verheerenden Folgen für die Menschheit. - kann als alternative zum Teufel genommen werden.
+## Geschichte
+### Gerüchte über die Hütte
+- Penner die dort übernachtet haben sind nie wieder gesehen wurden, sie wurden von der Hütte verschlungen
+- Pferde drehen in ihrer Nähe durch
+- Hunde wollen dort nicht
+- Die Bank vor der Hütte will niemand besetzen. Dort fühlen sich die Leute beobachtet und unwohl. Angeblich soll einer verücktgeworden sein nur von dort sitzen.
+- Jemand hatt sich vor der Hütte erhängt
+### Enden
+1. Hütte einfach verbrennen <- Nach einer Zeitspanne von 5 bis x Jahren gibt es wieder vorkommnisse
+2. Mit hilfe des Pristers reinigen und Verbrennen <- bessere lösung da langfristig
