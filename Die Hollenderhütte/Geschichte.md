@@ -8,7 +8,7 @@ Insberiert von der Kürtzgeschichte "Der Teufel im alten Hollenderhaus" von Detl
 **Ort:** Peterstown in Norden Amerikars  
 **Zeit:** 5 Jahre nach dem Amerikanischen Bürgerkrierg
 
-## Karaktere
+## Charaktere
 ### Der Pfarrer -  Jeremy  
 Netter Kerl.
 Kennt die Geschichten über die Hütte.
@@ -31,3 +31,14 @@ Eine der Leichen in der Hütte.
 Eine der Leichen in der Hütte. 
 ### Die Wittwe Mary
 Eine der Leichen in der Hütte. 
+
+## Spieler
+Die Spielenden haben eine Verbindung zu den Anderen Chars.
+
+## Anfang
+1. Gerüchte am Träsen vom Zeitungsreporter z.B.
+2. Ein alter Freund: Ein alter Freund bittet die Ermittler um Hilfe, da er von Albträumen geplagt wird, die mit der Hütte in Verbindung stehen.
+
+## Info
+
+Hastur: - Der "König in Gelb" ist ein Wesen, das mit Wahnsinn und Chaos in Verbindung gebracht wird. Seine Anwesenheit führt oft zu verheerenden Folgen für die Menschheit. - kann als alternative zum Teufel genommen werden.
